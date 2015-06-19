@@ -4,7 +4,8 @@ body {
   font-family: Georgia, Times, serif;
 /*  color: #443818; */
   color: #000;
-
+  letter-spacing: 0.05em;
+  line-height: 1.35em;
 }
 
 @font-face {
@@ -15,7 +16,7 @@ body {
 h3 {
   font-family: CasablancaAntique, Georgia, Times, serif;
   color: #38280c;
-  margin-top: 0;
+  margin-top: 0.5em;
   text-align: center;
   font-size: 150%;
   font-weight: normal;
@@ -149,7 +150,7 @@ p.center {
 
 /******************************************
  *                                        *
- * SisÃ¤ltÃ¶sivujen style                   *
+ * Sisältösivujen style                   *
  *                                        *
  ******************************************/
 
@@ -197,22 +198,15 @@ ul.index {
   text-align:center;
 }
 
-ul.yhtye li,
-body#esiintyjat-un-altra-ondata ul.un-altra-ondata li,
-body#esiintyjat-fioretto-ensemble ul.fioretto li,
-body#esiintyjat-battalia ul.battalia li,
-body#esiintyjat-baccano ul.baccano li,
-body#esiintyjat-regina-caeli ul.regina-caeli li,
-body#esiintyjat-oliphant ul.oliphant li { 
+body#esiintyjat ul li { 
   list-style: none;
   list-style-image: url(/images/koru4.png);
-  margin-left: 0.5em;
   margin-bottom: 0.5em;
+
 }
 
-body#esiintyjat ul.esiintyjat li { 
-  list-style: none;
-  list-style-image: url(/images/koru4.png);
-  margin-bottom: 0.5em;
-  margin-left: 0.5em;
+body#esiintyjat p img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }

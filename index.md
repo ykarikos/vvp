@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Vanhassa vara parempi!
+title: 
 bodyid: index
 ---
 
