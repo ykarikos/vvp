@@ -2,6 +2,7 @@
 layout: main
 title: Esiintyjät
 bodyid: esiintyjat
+year: 2014
 ---
 ## Esiintyjät
 
