@@ -1,0 +1,218 @@
+body {
+  background-color: #d0c58d;
+  background: url(images/parch-d2.jpg);
+  font-family: Georgia, Times, serif;
+/*  color: #443818; */
+  color: #000;
+
+}
+
+@font-face {
+  font-family: CasablancaAntique;
+  src: url('/images/Casablanca-Antique.ttf');
+}
+      
+.title {
+  font-family: CasablancaAntique, Georgia, Times, serif;
+  color: #38280c;
+  margin-top: 0;
+  text-align: center;
+  font-size: 150%;
+  font-weight: normal;
+}
+
+h5.title {
+  font-size: 120%;
+  font-weight: normal;
+}
+
+h3.title {
+  max-width: 350px; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h4.title {
+  font-style: italic; 
+  font-size: 130%;
+}
+
+div { 
+  margin: 0;
+  padding: 0;
+}
+
+div.boksi { 
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 749px;
+}
+
+div.contentbg {
+  background-image: url(images/content-tausta2.png); 
+  width: 749px;
+}
+
+div.top {
+  background-image: url(images/top-tausta2.png);
+  background-repeat: no-repeat;
+  height: 70px;
+  width: 749px;
+}
+
+div.ala {
+  background: url(images/top-tausta2.png);
+  background-repeat: no-repeat;
+  height: 70px;
+  width: 749px;
+}
+
+div.content { 
+  background-image: url(images/parch-d2.jpg);
+  margin-left: 70px;
+  margin-right: 70px;
+  padding: 1.5em;
+}
+
+
+div.valike {
+	text-align: center;
+	margin: 1.5em;
+}
+
+ul.navi {
+  margin: 1em 0;
+  padding: 0;
+  text-align:center;
+}
+
+.navi li {
+	font-size: 110%;
+	font-style: italic;
+	list-style: none;
+	display: inline;
+	padding: 0;
+}
+
+.navi li img {
+  margin-bottom: -3px;
+  margin-right: 3px;
+}
+
+a {
+  color: #843;
+  background-color: transparent;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+h1 {
+	margin: 0;
+	text-align: center;
+}
+
+img.photo {
+	border: 1px solid;
+	padding: 4px;
+}
+
+img.kirkko {
+	border: 1px solid;
+	padding: 0px;
+}
+
+p { 
+  margin-right: 2em;
+}
+
+img { 
+  behavior: url("/pngbehavior.htc");
+}
+
+a img { 
+  border: 0;
+  text-decoration: none;
+}
+
+p.floatright {
+  float: right;
+  margin-right: -0.5em;
+  margin-left: 1em;
+}
+
+p.center { 
+  text-align: center;
+}
+
+/******************************************
+ *                                        *
+ * SisÃ¤ltÃ¶sivujen style                   *
+ *                                        *
+ ******************************************/
+
+td, th { 
+  vertical-align: top;
+}
+
+body#ohjelma td, body#ohjelma th {
+  padding-bottom: 1em;
+}
+
+body#ohjelma th {
+	text-align: right;
+	font-weight: normal;
+	font-style: italic;
+	font-size: 90%;
+	padding-right: 2em;
+}
+
+body#index table {
+    margin-top: 1em;
+    margin-bottom: 0;
+}
+
+body#index div.valike {
+    margin-bottom: 2em;
+}
+ 
+body#index div.content {
+    padding-bottom: 0;
+}
+
+body#index td {
+	padding: 0.5em;
+	vertical-align: bottom;
+	text-align: center;
+}
+
+ul.index li {
+  list-style: none;
+  display: inline;
+}
+
+ul.index {
+  text-align:center;
+}
+
+ul.yhtye li,
+body#esiintyjat-un-altra-ondata ul.un-altra-ondata li,
+body#esiintyjat-fioretto-ensemble ul.fioretto li,
+body#esiintyjat-battalia ul.battalia li,
+body#esiintyjat-baccano ul.baccano li,
+body#esiintyjat-regina-caeli ul.regina-caeli li,
+body#esiintyjat-oliphant ul.oliphant li { 
+  list-style: none;
+  list-style-image: url(/images/koru4.png);
+  margin-left: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+body#esiintyjat ul.esiintyjat li { 
+  list-style: none;
+  list-style-image: url(/images/koru4.png);
+  margin-bottom: 0.5em;
+  margin-left: 0.5em;
+}
