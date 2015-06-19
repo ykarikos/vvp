@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: main
 title: Esiintyjät
+bodyid: esiintyjat
 ---
 ## Esiintyjät
 

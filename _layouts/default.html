@@ -4,9 +4,8 @@
  <title>{{ page.title }}</title>
 <link rel="stylesheet" media="screen" href="/style.css" type="text/css">
 </head>
-<body>
 
-<body id="esiintyjat">
+<body id="{{ page.bodyid }}">
 
 <div class="boksi">
 <div class="top">
@@ -18,10 +17,6 @@
 
 <h1>
 <a href="/"><img src="/images/vanhassa-vara-parempi2.png" alt="Vanhassa vara parempi!" width="550" height="37"></a></h1>  
-
-<h5 class="title">XIV Vanhan musiikin festivaali Imatralla 17.–20.8.2014</h5>
-
-{% include navi.html %}
 
 {{ content }}  
 

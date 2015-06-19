@@ -11,8 +11,8 @@ body {
   font-family: CasablancaAntique;
   src: url('/images/Casablanca-Antique.ttf');
 }
-      
-.title {
+
+h3 {
   font-family: CasablancaAntique, Georgia, Times, serif;
   color: #38280c;
   margin-top: 0;
@@ -21,15 +21,15 @@ body {
   font-weight: normal;
 }
 
-h5.title {
-  font-size: 120%;
-  font-weight: normal;
-}
-
-h3.title {
+body#index h3 {
   max-width: 350px; 
   margin-left: auto;
   margin-right: auto;
+}
+
+h4 {
+    font-size: 150%;
+    text-align: center;
 }
 
 h4.title {
