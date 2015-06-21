@@ -7,5 +7,7 @@ year: 2015
 
 ### {{ site.subtitle[page.year] }}
 
-#### [Juliste]({{ page.year }}/VVP{{ page.year }}.pdf)
+### Vanha musiikki ja improvisaatio
+
+#### [Juliste](VVP{{ page.year }}.pdf)
 

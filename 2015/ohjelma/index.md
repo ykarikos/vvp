@@ -6,6 +6,8 @@ year: 2015
 ---
 ## Ohjelma
 
+### Vanha musiikki ja improvisaatio
+
 <table>
 <tr>
 <th>
@@ -23,8 +25,8 @@ Ohjelma 10 €
 <tr><th>
 maanantai&nbsp;17.8.&nbsp;klo&nbsp;14<br>
 Neitsytniemen kartano<br>
-<a href="http://maps.google.fi/?q=Vuoksenniskantie+10,+Imatra">
-Vuoksenniskantie 10</a>
+<a href="http://maps.google.fi/?q=Neitsytniemen+kartano">
+Neitsytniemenkuja 12</a>
 </th><td>
 <b>Fine Knacks for Ladies</b><br>
 Englantilais–italialainen iltapäivä<br>
@@ -50,7 +52,7 @@ Ohjelma 10 €
 
 <tr><th>
 tiistai&nbsp;18.8.&nbsp;klo&nbsp;14<br>
-Kari ja Leena Nousiaisella<br>
+Kari&nbsp;ja&nbsp;Leena&nbsp;Nousiaisella<br>
 <a href="http://maps.google.fi/?q=Pillinpolku+19,+Imatra">
 Pillinpolku 19</a>
 </th><td>
@@ -59,7 +61,7 @@ Improvisaatioita barokin hengessä I<br>
 <a href="/esiintyjat/vesteriset/">Johannes Vesterinen</a>,
 urut<br>
 Liput 10 €, sisältäen kahvitarjoilun, <br>
-ennakkovaraukset puh. 040 751 5515
+ennakkovaraukset puh. <a href="tel:+358407515515">040 751 5515</a>
 </td></tr>
 
 <tr><th>
@@ -80,7 +82,7 @@ keskiviikko&nbsp;19.8.&nbsp;klo&nbsp;14<br>
 <a href="/kirkot/">Tainionkosken kirkko</a>
 </th><td>
 <b>Iltapäivämusiikki</b><br>
-Improvisaatioita barokin hengessä I<br>
+Improvisaatioita barokin hengessä II<br>
 <a href="/esiintyjat/vesteriset/">Johannes Vesterinen</a>,
 cembalo ja urut
 </td></tr>
@@ -101,4 +103,5 @@ Ohjelma 10 €
 </table>
 
 
-Lisätietoja: Johannes Vesterinen, puh. 040 742 0260
+Lisätietoja: Johannes Vesterinen, puh.
+<a href="tel:+358407420260">040 742 0260</a>
