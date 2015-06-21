@@ -10,15 +10,15 @@ year: 2014
 <tr>
 <th>
 sunnuntai&nbsp;17.8.&nbsp;klo&nbsp;18<br>
-<a href="/kirkot/">Tainionkosken&nbsp;kirkko</a><br>
+<a href="../kirkot/">Tainionkosken&nbsp;kirkko</a><br>
 <a href="http://maps.google.fi/?q=Kirkkokatu+2,+Imatra">
 Kirkkokatu 2</a>
 </th><td>
 <b>Valoa ja varjoja</b><br>
 – Palestrina, Gabrieli, Victoria, Mouton –
-<a href="/esiintyjat/lauluyhtye-versio/">Lauluyhtye Versio</a><br>
-<a href="/esiintyjat/matti-pohjoisaho/">Matti Pohjoisaho</a>, urut<br>
-<a href="/esiintyjat/sipola-arvedson/">Ulla Sipola &amp; Svante
+<a href="../esiintyjat/lauluyhtye-versio/">Lauluyhtye Versio</a><br>
+<a href="../esiintyjat/matti-pohjoisaho/">Matti Pohjoisaho</a>, urut<br>
+<a href="../esiintyjat/sipola-arvedson/">Ulla Sipola &amp; Svante
 Arvedson</a>, nokkahuilut<br>
 Ohjelma 10 €
 </td></tr>
@@ -30,9 +30,9 @@ Kari ja Leena Nousiaisella<br>
 Pillinpolku 19</a>
 </th><td>
 <b>Kahvikonsertti</b><br>
-<a href="/esiintyjat/vesteriset/#heini">Heini Vesterinen</a>,
+<a href="../esiintyjat/vesteriset/#heini">Heini Vesterinen</a>,
 barokkiviulu<br>
-<a href="/esiintyjat/vesteriset/">Johannes Vesterinen</a>,
+<a href="../esiintyjat/vesteriset/">Johannes Vesterinen</a>,
 urut<br>
 Liput 5 €, sisältää kahvitarjoilun, <br>
 ennakkovaraukset puh. 040 751 5515
@@ -40,18 +40,18 @@ ennakkovaraukset puh. 040 751 5515
 
 <tr><th>
 maanantai&nbsp;18.8.&nbsp;klo&nbsp;18<br>
-<a href="/kirkot/">Imatrankosken&nbsp;kirkko</a><br>
+<a href="../kirkot/">Imatrankosken&nbsp;kirkko</a><br>
 <a href="http://maps.google.fi/?q=Kanavakatu+2,+Imatra">
 Kanavakatu 2</a>
 </th><td>
 <b>Maestrojen muistole</b><br>
 – Rameau, Leclair, Locatelli –<br>
 <i>Etelä-Karjalan barokkiyhtye</i><br>
-<a href="/esiintyjat/vesteriset/#heini">Heini Vesterinen</a>,
+<a href="../esiintyjat/vesteriset/#heini">Heini Vesterinen</a>,
 barokkiviulu<br>
 Markus Sarantola, barokkialttoviulu<br>
 Tuukka Terho, arkkiluuttu<br>
-<a href="/esiintyjat/vesteriset/">Johannes Vesterinen</a>,
+<a href="../esiintyjat/vesteriset/">Johannes Vesterinen</a>,
 cembalo<br>
 Ohjelma 10 €
 </td></tr>
@@ -63,44 +63,44 @@ Kukka-Aarteet ja Kahvio
 Tainionkoskentie 6</a>
 </th><td>
 <b>Kahvikonsertti</b><br>
-<a href="/esiintyjat/vesteriset/">Johannes Vesterinen</a>,
+<a href="../esiintyjat/vesteriset/">Johannes Vesterinen</a>,
 regaali &amp; piano
 </td></tr>
 
 <tr><th>
 tiistai&nbsp;19.8.&nbsp;klo&nbsp;18<br>
-<a href="/kirkot/">Tainionkosken&nbsp;kirkko</a><br>
+<a href="../kirkot/">Tainionkosken&nbsp;kirkko</a><br>
 </th><td>
 <b>Kun barokki keksittiin</b><br>
 Musiikkia 1600-luvun alun Italiasta<br>
 Vanhan musiikin yhtye
-<a href="/esiintyjat/sonus-borealis/">Sonus Borealis</a>,<br>
+<a href="../esiintyjat/sonus-borealis/">Sonus Borealis</a>,<br>
 Ohjelma 10 €
 </td></tr>
 
 <tr><th>
 keskiviikko&nbsp;20.8.&nbsp;klo&nbsp;14<br>
-<a href="/kirkot/">Tainionkosken kirkko</a>
+<a href="../kirkot/">Tainionkosken kirkko</a>
 </th><td>
 <b>Iltapäivämusiikki</b><br>
 C.P.E. Bachin laulu- ja soitinmusiikkia<br>
 Lauri Solin, laulu<br>
-<a href="/esiintyjat/vesteriset/">Johannes Vesterinen</a>,
+<a href="../esiintyjat/vesteriset/">Johannes Vesterinen</a>,
 cembalo
 </td></tr>
 
 <tr><th>
 keskiviikko&nbsp;20.8.&nbsp;klo&nbsp;18<br>
-<a href="/kirkot/">Kolmen Ristin kirkko</a><br>
+<a href="../kirkot/">Kolmen Ristin kirkko</a><br>
 <a href="http://maps.google.fi/?q=Ruokolahdentie+27,+Imatra">
 Ruokolahdentie 27</a>
 </th><td>
 <b>Aurinkokuninkaan urkuri</b><br>
 G.G. Niversin hymnejä ja motetteja<br>
 Lauri Solin, laulu<br>
-<a href="/esiintyjat/vesteriset/">Johannes Vesterinen</a>,
+<a href="../esiintyjat/vesteriset/">Johannes Vesterinen</a>,
 urut<br>
-<a href="/esiintyjat/vesteriset/#heini">Heini Vesterinen</a>,
+<a href="../esiintyjat/vesteriset/#heini">Heini Vesterinen</a>,
 viola da gamba<br>
 Ohjelma 10 €
 </td></tr>
