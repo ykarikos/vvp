@@ -6,7 +6,6 @@ year: 2015
 ---
 ## Battalia
 
-- Sirkka-Liisa Kaakinen-Pilch, viulu
 - Susanne Helasvuo, viulu
 - Mika Suihkonen, viola da gamba
 - Eero Palviainen, luuttu

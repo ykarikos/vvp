@@ -10,6 +10,7 @@ year: 2015
 - [Tuukka Terho](tuukka-terho)
 - Vanhan musiikin yhtye [Zephiro](zephiro/)
 - Lauluyhtye [Heinavanker](heinavanker/)
+- [Sirkka-Liisa Kaakinen-Pilch](sirkka-liisa-kaakinen-pilch/)
 - Barokkiyhtye [Battalia](battalia/)
 - [Heini Vesterinen](vesteriset/#heini)
 - [Johannes Vesterinen](vesteriset/)

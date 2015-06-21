@@ -58,7 +58,7 @@ Pillinpolku 19</a>
 </th><td>
 <b>Kahvikonsertti</b><br>
 Improvisaatioita barokin hengessä I<br>
-<a href="/esiintyjat/vesteriset/">Johannes Vesterinen</a>,
+<a href="../esiintyjat/vesteriset/">Johannes Vesterinen</a>,
 urut<br>
 Liput 10 €, sisältäen kahvitarjoilun, <br>
 ennakkovaraukset puh. <a href="tel:+358407515515">040 751 5515</a>
@@ -73,30 +73,30 @@ Ruokolahdenkatu 27</a>
 <b>Terra Mariana</b><br>
 Lauluja keskiajalta kansankoraaleihin<br>
 Lauluyhtye
-<a href="/esiintyjat/heinavanker/">Heinavanker</a>,<br>
+<a href="../esiintyjat/heinavanker/">Heinavanker</a>,<br>
 Ohjelma 10 €
 </td></tr>
 
 <tr><th>
 keskiviikko&nbsp;19.8.&nbsp;klo&nbsp;14<br>
-<a href="/kirkot/">Tainionkosken kirkko</a>
+<a href="../kirkot/">Tainionkosken kirkko</a>
 </th><td>
 <b>Iltapäivämusiikki</b><br>
 Improvisaatioita barokin hengessä II<br>
-<a href="/esiintyjat/vesteriset/">Johannes Vesterinen</a>,
+<a href="../esiintyjat/vesteriset/">Johannes Vesterinen</a>,
 cembalo ja urut
 </td></tr>
 
 <tr><th>
 keskiviikko&nbsp;19.8.&nbsp;klo&nbsp;18<br>
-<a href="/kirkot/">Tainionkosken kirkko</a>
+<a href="../kirkot/">Tainionkosken kirkko</a>
 </th><td>
 <b>Henrich Ignaz Franz von Biber</b><br>
 Mysteerisonaatteja<br>
-<a href="/esiintyjat/sirkka-liisa-kaakinen-pilch/">Sirkka-Liisa Kaakinen-Pilch</a>,
+<a href="../esiintyjat/sirkka-liisa-kaakinen-pilch/">Sirkka-Liisa Kaakinen-Pilch</a>,
 viulu<br>
 Barokkiyhtye
-<a href="/esiintyjat/battalia/">Battalia</a><br>
+<a href="../esiintyjat/battalia/">Battalia</a><br>
 Ohjelma 10 €
 </td></tr>
 
