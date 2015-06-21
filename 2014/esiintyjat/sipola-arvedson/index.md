@@ -2,6 +2,7 @@
 layout: main
 title: Esiintyjät - Matti Pohjoisaho
 bodyid: esiintyjat
+year: 2014
 ---
 ## Ulla Sipola & Svante Arvedson
 

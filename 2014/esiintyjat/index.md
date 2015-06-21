@@ -6,11 +6,11 @@ year: 2014
 ---
 ## Esiintyjät
 
-- Vanhan musiikin laulu- ja soitinyhtye [Sonus Borealis](/esiintyjat/sonus-borealis/)
-- [Lauluyhtye Versio](/esiintyjat/lauluyhtye-versio/)
-- [Matti Pohjoisaho](/esiintyjat/matti-pohjoisaho/)
-- [Ulla Sipola & Svante Arvedson](/esiintyjat/sipola-arvedson/)
+- Vanhan musiikin laulu- ja soitinyhtye [Sonus Borealis](sonus-borealis/)
+- [Lauluyhtye Versio](lauluyhtye-versio/)
+- [Matti Pohjoisaho](matti-pohjoisaho/)
+- [Ulla Sipola & Svante Arvedson](sipola-arvedson/)
 - Etelä-Karjalan Barokkiyhtye
 - Lauri Solin
-- [Heini Vesterinen](/esiintyjat/vesteriset/#heini)
-- [Johannes Vesterinen](/esiintyjat/vesteriset/)
+- [Heini Vesterinen](vesteriset/#heini)
+- [Johannes Vesterinen](vesteriset/)

@@ -2,6 +2,7 @@
 layout: main
 title: Esiintyjät - Lauluyhtye Versio
 bodyid: esiintyjat
+year: 2014
 ---
 ## Lauluyhtye Versio
 
