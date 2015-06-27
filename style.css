@@ -210,3 +210,9 @@ body#esiintyjat p img {
   margin-right: auto;
   display: block;
 }
+
+#archive-list {
+    display: none;
+}
+
+
