@@ -28,14 +28,9 @@ body#index h3 {
   margin-right: auto;
 }
 
-h4 {
+#index h4 {
     font-size: 150%;
     text-align: center;
-}
-
-h4.title {
-  font-style: italic; 
-  font-size: 130%;
 }
 
 div { 

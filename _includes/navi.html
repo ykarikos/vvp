@@ -1,7 +1,7 @@
 <ul class="navi">
-<!--
-  <li><a href="/esittely/">Esittely</a>
--->
+{% if site.esittely[page.year] %}
+  <li><a href="/{{ page.year }}/esittely/">Esittely</a>
+{% endif %}
   <li><a href="/{{ page.year }}/esiintyjat/">Esiintyjät</a>
   <li><a href="/{{ page.year }}/ohjelma/">Ohjelma</a> 
   <li><a href="/{{ page.year }}/kirkot/">Kirkot</a>
@@ -11,6 +11,7 @@
 <ul class="navi" id="archive-list">
   <li><a href="/2015/">2015</a>
   <li><a href="/2014/">2014</a>
+  <li><a href="/2013/">2013</a>
 </ul>
 
 <div class="valike">
