@@ -94,11 +94,14 @@ ul.navi {
 	list-style: none;
 	display: inline;
 	padding: 0;
+
 }
 
-.navi li img {
-  margin-bottom: -3px;
-  margin-right: 3px;
+.navi li + li:before {
+    content: url('/images/koru2.png');
+    margin-right: 3px;
+    position: relative;
+    top: 3px;
 }
 
 a {
