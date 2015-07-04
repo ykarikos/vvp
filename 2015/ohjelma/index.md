@@ -4,9 +4,9 @@ title: Ohjelma
 bodyid: ohjelma
 year: 2015
 ---
-## Ohjelma
+### Improvisaatio ja vanha musiikki kohtaavat
 
-### Vanha musiikki ja improvisaatio
+## Ohjelma
 
 <table>
 <tr>
@@ -94,7 +94,7 @@ keskiviikko&nbsp;19.8.&nbsp;klo&nbsp;18<br>
 <b>Henrich Ignaz Franz von Biber</b><br>
 Mysteerisonaatteja<br>
 <a href="../esiintyjat/sirkka-liisa-kaakinen-pilch/">Sirkka-Liisa Kaakinen-Pilch</a>,
-viulu<br>
+barokkiviulu<br>
 Barokkiyhtye
 <a href="../esiintyjat/battalia/">Battalia</a><br>
 Ohjelma 10 €
