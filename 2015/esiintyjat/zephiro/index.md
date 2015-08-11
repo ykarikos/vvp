@@ -7,9 +7,9 @@ year: 2015
 ## Zephiro
 
 - Ulla Paakkunainen, sopraano
-- Eva Palviainen, goottilainen harppu, barokkiharppu
-- Timo Peedu, vihuela da mano, barokkikitara
-- Päivi Vesalaiuen, spinetti
+- Eva Palviainen, goottilainen harppu, barokkiharppu, nokkahuilu
+- Timo Peedu, vihuela da mano, viola da mano, barokkikitara, keskiaikainen luuttu
+- Päivi Vesalainen, spinetti, nokkahuilu
 - Ville Voipio, viola da arco, viola da gamba
 
 ![Zephiro](zephiro.jpg)
