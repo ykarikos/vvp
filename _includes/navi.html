@@ -2,13 +2,18 @@
 {% if site.esittely[page.year] %}
   <li><a href="/{{ page.year }}/esittely/">Esittely</a>
 {% endif %}
+{% if site.esiintyjat[page.year] %}
   <li><a href="/{{ page.year }}/esiintyjat/">Esiintyjät</a>
+{% endif %}
+{% if site.ohjelma[page.year] %}
   <li><a href="/{{ page.year }}/ohjelma/">Ohjelma</a> 
+{% endif %}
   <li><a href="/{{ page.year }}/kirkot/">Kirkot</a>
   <li><a href="#" id="archive">Arkisto</a>
 </ul>
 
 <ul class="navi" id="archive-list">
+  <li><a href="/2016/">2016</a>
   <li><a href="/2015/">2015</a>
   <li><a href="/2014/">2014</a>
   <li><a href="/2013/">2013</a>
