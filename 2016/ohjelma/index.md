@@ -43,8 +43,8 @@ Kanavakatu 2</a>
 </th><td>
 <b>Rariosa &amp; curiosa</b><br>
 harvoin tarjolla<br>
-Petri Tapio Mattson, barokkiviulu<br>
-Ilpo Laspas, cembalo<br>
+<a href="../esiintyjat/petri-tapio-mattson/">Petri Tapio Mattson</a>, barokkiviulu<br>
+<a href="../esiintyjat/ilpo-laspas/">Ilpo Laspas</a>, cembalo<br>
 Ohjelma 10 €
 </td></tr>
 
@@ -69,7 +69,7 @@ Kirkkokatu 2</a>
 </th><td>
 <b>Johann Jakob Froberger</b><br>
 reissumiehen 400-vuotissyntymäpäivät<br>
-Matias Häkkinen, cembalo &amp; urut<br>
+<a href="../esiintyjat/matias-hakkinen/">Matias Häkkinen</a>, cembalo &amp; urut<br>
 Ohjelma 10 €
 </td></tr>
 
