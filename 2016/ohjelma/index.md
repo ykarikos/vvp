@@ -43,8 +43,10 @@ Kanavakatu 2</a>
 </th><td>
 <b>Rariosa &amp; curiosa</b><br>
 harvoin tarjolla<br>
+<!-- 
 <a href="../esiintyjat/petri-tapio-mattson/">Petri Tapio Mattson</a>, barokkiviulu<br>
-<a href="../esiintyjat/ilpo-laspas/">Ilpo Laspas</a>, cembalo<br>
+-->
+<a href="../esiintyjat/ilpo-laspas/">Ilpo Laspas</a>, cembalo (esiintyy soolona sairastapauksen vuoksi)<br>
 Ohjelma 10 €
 </td></tr>
 
