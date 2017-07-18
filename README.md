@@ -2,6 +2,12 @@
 
 This is the source for [Vanhassa Vara Parempi](http://www.vanhassavaraparempi.fi/) that is hosted in [GitHub Pages](https://pages.github.com/).
 
+## How to add a new year
+
+* Add the new year and festival title to `_config.yml`
+* Refer to the new year in `index.md`
+* Copy `<year-1>/index.md` to `<year>/` and `s/<year-1>/<year>/`
+
 ## Running locally
 
 Check instructions at https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/

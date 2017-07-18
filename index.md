@@ -1,4 +1,4 @@
 ---
 layout: frontpage
-year: 2016
+year: 2017
 ---
