@@ -16,8 +16,7 @@ year: 2017
 <td><ul>
 <li><b>Armon lapset, riemuitkaa!</b></li>
 <li>Vanhoja suomalaisia polskia ja virsiä</li>
-<li>Vanhan musiikin laulu- ja soitinyhtye <a href="../esiintyjat/sonus-borealis/">Sonus Borealis</a></li>
-<li>Sari Kaasinen</li>
+<li>Vanhan musiikin laulu- ja soitinyhtye <a href="../esiintyjat/sonus-borealis/">Sonus Borealis</a> &amp; Sari Kaasinen</li>
 <li>Ohjelma 10 €</li>
 </ul></td></tr>
 
@@ -79,8 +78,7 @@ Ruokolahdenkatu 27</a></li>
 <td><ul>
 <li><b>Jumala ompi linnamme!</b></li>
 <li>Lutheria nuotista ja hatusta II</li>
-<li><a href="../esiintyjat/vesteriset/">Johannes Vesterinen</a>,</li>
-urut
+<li><a href="../esiintyjat/vesteriset/">Johannes Vesterinen</a>, urut</li>
 <li>Lauluyhtye <a href="../esiintyjat/sonus-borealis/">Sonus Borealis</a></li>
 <li>Ohjelma 10 €</li>
 </ul></td></tr>
