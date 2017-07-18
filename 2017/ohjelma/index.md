@@ -16,7 +16,8 @@ year: 2017
 <td><ul>
 <li><b>Armon lapset, riemuitkaa!</b></li>
 <li>Vanhoja suomalaisia polskia ja virsiä</li>
-<li>Vanhan musiikin laulu- ja soitinyhtye <a href="../esiintyjat/sonus-borealis/">Sonus Borealis</a> &amp; Sari Kaasinen</li>
+<li>Vanhan musiikin laulu- ja soitinyhtye <a href="../esiintyjat/sonus-borealis/">Sonus Borealis</a> &amp; 
+<a href="http://www.sarikaasinen.com/fi/etusivu/sari+kaasinen/">Sari Kaasinen</a></li>
 <li>Ohjelma 10 €</li>
 </ul></td></tr>
 

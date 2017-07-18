@@ -7,6 +7,7 @@ This is the source for [Vanhassa Vara Parempi](http://www.vanhassavaraparempi.fi
 * Add the new year and festival title to `_config.yml`
 * Refer to the new year in `index.md`
 * Copy `<year-1>/index.md` to `<year>/` and `s/<year-1>/<year>/`
+* Add a new year to archive-list in `_includes/navi.html`
 
 ## Running locally
 
