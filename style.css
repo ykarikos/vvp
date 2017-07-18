@@ -196,6 +196,16 @@ ul.index {
   text-align:center;
 }
 
+table ul {
+  margin: 0;
+  padding: 0;
+}
+
+table ul li {
+  list-style: none;
+  padding: 0;
+}
+
 body#esiintyjat ul li { 
   list-style: none;
   list-style-image: url(/images/koru4.png);
