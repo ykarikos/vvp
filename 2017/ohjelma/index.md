@@ -73,7 +73,7 @@ Pillinpolku 19</a></li>
 <li>tiistai&nbsp;22.8.&nbsp;klo&nbsp;18</li>
 <li><a href="../kirkot/">Kolmen&nbsp;Ristin&nbsp;kirkko</a></li>
 <li><a href="http://maps.google.fi/?q=Ruokolahdentie+27,+Imatra">
-Ruokolahdenkatu 27</a></li>
+Ruokolahdentie 27</a></li>
 </ul></th>
 
 <td><ul>

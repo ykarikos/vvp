@@ -68,7 +68,7 @@ ennakkovaraukset puh. <a href="tel:+358407515515">040 751 5515</a>
 tiistai&nbsp;18.8.&nbsp;klo&nbsp;18<br>
 <a href="../kirkot/">Kolmen Ristin Kirkko</a><br>
 <a href="http://maps.google.fi/?q=Ruokolahdentie+27,+Imatra">
-Ruokolahdenkatu 27</a>
+Ruokolahdentie 27</a>
 </th><td>
 <b>Terra Mariana</b><br>
 Lauluja keskiajalta kansankoraaleihin<br>

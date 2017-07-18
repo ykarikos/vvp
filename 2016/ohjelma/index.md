@@ -12,7 +12,7 @@ year: 2016
 sunnuntai&nbsp;14.8.&nbsp;klo&nbsp;18<br>
 <a href="../kirkot/">Kolmen&nbsp;Ristin&nbsp;kirkko</a><br>
 <a href="http://maps.google.fi/?q=Ruokolahdentie+27,+Imatra">
-Ruokolahdenkatu 27</a>
+Ruokolahdentie 27</a>
 </th><td>
 <b>Mil suspiros Dió Maria</b><br>
 Musiikkia 1500–1600-lukujen Brasiliasta ja Portugalista<br>
