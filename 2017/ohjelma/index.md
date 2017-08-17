@@ -41,8 +41,8 @@ year: 2017
 
 <tr><th><ul>
 <li>maanantai&nbsp;21.8.&nbsp;klo&nbsp;18</li>
-<li><a href="../kirkot/">Imatrankosken&nbsp;kirkko</a></li>
-<li><a href="http://maps.google.fi/?q=Kanavakatu+2,+Imatra">Kanavakatu 2</a></li>
+<li><a href="../kirkot/">Tainionkosken&nbsp;kirkko</a></li>
+<li><a href="http://maps.google.fi/?q=Kirkkokatu+2,+Imatra">Kirkkokatu 2</a></li>
 </ul></th>
 
 <td><ul>
