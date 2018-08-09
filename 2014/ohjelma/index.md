@@ -107,6 +107,6 @@ Ohjelma 10 €
 
 </table>
 
-Tämän vuoden festivaalin teemasäveltäjät valikoituivat vuosilukujen perusteella: Maanantai-illan konsertissa kuullaan 250 vuotta sitten kuolleiden Jean-Philippe Rameaun, Jean-Marie Leclairin ja Pietro Locatellin kamarimusiikkia, keskiviikkona ohjelmassa on 300 vuotta sitten syntyneen Carl Philipp Emanuel Bachin sekä samana vuonna kuolleen Guillaume-Gabriel Niversin laulu- ja soitinsävellyksiä. Osa edellä mainituista säveltäjistä on esillä myös kahdessa kahvikonsertissa. Sunnuntain ja tiistain iltakonserteissa painopiste on italialaisessa renessanssin ja varhaisbarokin ajan musiikissa. Luvassa on siis jälleen varsin monipuolinen kattaus harvinaisiakin herkkuja!
+Tämän vuoden festivaalin teemasäveltäjät valikoituivat vuosilukujen perusteella: Maanantai-illan konsertissa kuullaan 250 vuotta sitten kuolleiden Jean-Philippe Rameaun, Jean-Marie Leclairin ja Pietro Locatellin kamarimusiikkia, keskiviikkona ohjelmassa on 300 vuotta sitten syntyneen Carl Philipp Emanuel Bachin sekä samana vuonna kuolleen Guillaume-Gabriel Niversin laulu- ja soitinsävellyksiä. Osa edellä mainituista säveltäjistä on esillä myös kahdessa kahvikonsertissa. Sunnuntain ja tiistain iltakonserteissa painopiste on italialaisessa renessanssin ja varhaisbarokin ajan musiikissa. Luvassa on siis jälleen varsin monipuolinen kattaus harvinaisiakin herkkuja!
 
 Lisätietoja: Johannes Vesterinen, puh. 040 742 0260
