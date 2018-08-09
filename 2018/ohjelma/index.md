@@ -16,13 +16,12 @@ year: 2018
 <td><ul>
 <li><b>3 x 333,</b> osa 33:33</li>
 <li>Bach - Händel - Scarlatti</li>
-<li><a href="../esiintyjat/teppo-lampela/">Teppo Lampela</a>, laulu
-<li><a href="../esiintyjat/mika-suihkonen/">Mika Suihkonen</a>, viola da gamba
-<li><a href="../esiintyjat/eero-palviainen/">Eero Palviainen</a>, luuttu &amp; kitara
+<li><a href="../esiintyjat/teppo-lampela/">Teppo Lampela</a>, laulu</li>
+<li><a href="../esiintyjat/mika-suihkonen/">Mika Suihkonen</a>, viola da gamba</li>
+<li><a href="../esiintyjat/eero-palviainen/">Eero Palviainen</a>, luuttu &amp; kitara</li>
 <li><a href="../esiintyjat/vesteriset/">Johannes Vesterinen</a>, cembalo &amp; urut</li>
 <li>Ohjelma 10 €</li>
 </ul></td></tr>
-
 
 <tr><th><ul>
 <li>maanantai&nbsp;20.8.&nbsp;klo&nbsp;14</li>
@@ -83,9 +82,7 @@ Pillinpolku 19</a></li>
 <li>Vanhan musiikin yhtye 
 <a href="../esiintyjat/ensemble-nylandia/">Ensemble Nylandia</a></li>
 <li>Ohjelma 10 €</li>
-</ul></td></tr>
-</table>
-
+</ul></td></tr></table>
 
 Lisätietoja: Johannes Vesterinen, puh.
 <a href="tel:+358407420260">040 742 0260</a>
