@@ -22,7 +22,7 @@ $ bundle exec jekyll serve
 
 ### Nokogiri
 
-Error: 
+Error:
 ```
 An error occurred while installing nokogiri (1.6.8), and Bundler cannot continue.
 ```
@@ -32,6 +32,7 @@ An error occurred while installing nokogiri (1.6.8), and Bundler cannot continue
 ```
 $ xcode-select --install
 $ gem install nokogiri -- --use-system-libraries --with-xml2-include=/usr/include/libxml2 --with-xml2-lib=/usr/lib/
+$ bundle config build.nokogiri --use-system-libraries --with-xml2-include=/usr/include/libxml2/
 ```
 
 ### Activesupport
