@@ -79,8 +79,8 @@ Pillinpolku 19</a></li>
 <td><ul>
 <li><b>3 x 333,</b> osa 3!:3+3!:3</li>
 <li>Bach - Händel - Scarlatti</li>
-<li>Vanhan musiikin yhtye 
-<a href="../esiintyjat/ensemble-nylandia/">Ensemble Nylandia</a></li>
+<li>Vanhan musiikin yhtye
+<a href="http://www.ensemblenylandia.info/">Ensemble Nylandia</a></li>
 <li>Ohjelma 10 €</li>
 </ul></td></tr></table>
 

@@ -10,6 +10,6 @@ year: 2018
 - [Mika Suihkonen](mika-suihkonen/), viola da gamba
 - [Eero Palviainen](eero-palviainen/), luuttu &amp; kitara
 - Lauluyhtye [Heinavanker](heinavanker/)
-- [Ensemble Nylandia](ensemble-nylandia/)
+- [Ensemble Nylandia](http://www.ensemblenylandia.info/)
 - [Heini Vesterinen](vesteriset/#heini), barokkiviulu
 - [Johannes Vesterinen](vesteriset/), cembalo &amp; urut
