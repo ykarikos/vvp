@@ -35,6 +35,18 @@ $ gem install nokogiri -- --use-system-libraries --with-xml2-include=/usr/includ
 $ bundle config build.nokogiri --use-system-libraries --with-xml2-include=/usr/include/libxml2/
 ```
 
+Note the nokogiri version and update the `Gemfile` to point to that specific version:
+```
+gem 'nokogiri', '~> 1.10.3'
+```
+
+After this, run
+```
+bundle update
+bundle install
+bundle exec jekyll serve
+```
+
 ### Activesupport
 
 Error:
