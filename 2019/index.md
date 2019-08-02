@@ -1,6 +1,5 @@
 ---
 layout: index
-title:
 bodyid: index
 year: 2019
 ---

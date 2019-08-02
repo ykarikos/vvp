@@ -2,8 +2,12 @@
 <html>
 <head>
   <title>Vanhassa vara parempi!
-    {% if page.title %} – {% endif %}
-    {{ page.title }}</title>
+{% if page.bodyid == 'index' %} – {{ site.subtitle[page.year] }}
+{% else %}
+      {% if page.title %} – {% endif %}
+      {{ page.title }}
+{% endif %}
+  </title>
 <meta charset=utf-8>
 <link rel="stylesheet" media="screen" href="/style.css" type="text/css">
 <script>
@@ -40,9 +44,9 @@ $(document).ready(function() {
 <div class="content">
 
 <h1>
-<a href="/{{ page.year }}/"><img src="/images/vanhassa-vara-parempi2.png" alt="Vanhassa vara parempi!" width="550" height="37"></a></h1>  
+<a href="/{{ page.year }}/"><img src="/images/vanhassa-vara-parempi2.png" alt="Vanhassa vara parempi!" width="550" height="37"></a></h1>
 
-{{ content }}  
+{{ content }}
 
 </div> <!-- content -->
 </div> <!-- contentbg -->
