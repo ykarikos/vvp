@@ -23,7 +23,7 @@ h3 {
 }
 
 body#index h3 {
-  max-width: 350px; 
+  max-width: 350px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -33,12 +33,12 @@ body#index h3 {
     text-align: center;
 }
 
-div { 
+div {
   margin: 0;
   padding: 0;
 }
 
-div.boksi { 
+div.boksi {
   margin-top: 15px;
   margin-left: auto;
   margin-right: auto;
@@ -46,7 +46,7 @@ div.boksi {
 }
 
 div.contentbg {
-  background-image: url(images/content-tausta2.png); 
+  background-image: url(images/content-tausta2.png);
   width: 749px;
 }
 
@@ -64,7 +64,7 @@ div.ala {
   width: 749px;
 }
 
-div.content { 
+div.content {
   background-image: url(images/parch-d2.jpg);
   margin-left: 70px;
   margin-right: 70px;
@@ -123,15 +123,15 @@ img.kirkko {
 	padding: 0px;
 }
 
-p { 
+p {
   margin-right: 2em;
 }
 
-img { 
+img {
   behavior: url("/pngbehavior.htc");
 }
 
-a img { 
+a img {
   border: 0;
   text-decoration: none;
 }
@@ -142,7 +142,7 @@ p.floatright {
   margin-left: 1em;
 }
 
-p.center { 
+p.center {
   text-align: center;
 }
 
@@ -152,7 +152,7 @@ p.center {
  *                                        *
  ******************************************/
 
-td, th { 
+td, th {
   vertical-align: top;
 }
 
@@ -176,7 +176,7 @@ body#index table {
 body#index div.valike {
     margin-bottom: 2em;
 }
- 
+
 body#index div.content {
     padding-bottom: 0;
 }
@@ -206,7 +206,7 @@ table ul li {
   padding: 0;
 }
 
-body#esiintyjat ul li { 
+body#esiintyjat ul li {
   list-style: none;
   list-style-image: url(/images/koru4.png);
   margin-bottom: 0.5em;
@@ -220,7 +220,7 @@ body#esiintyjat p img {
 }
 
 #archive-list {
+  padding-left: 3em;
+  padding-right: 3em;
     display: none;
 }
-
-

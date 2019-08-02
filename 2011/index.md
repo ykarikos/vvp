@@ -1,11 +1,9 @@
 ---
 layout: index
 bodyid: index
-year: 2013
+year: 2011
 ---
 
 ### {{ site.subtitle[page.year] }}
-
-### Konsertteja kirkoissa, kartanossa, kahvilassa, kulttuuritalossa ja kotona
 
 #### [Juliste](VVP{{ page.year }}.pdf)

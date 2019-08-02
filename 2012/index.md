@@ -1,11 +1,11 @@
 ---
 layout: index
 bodyid: index
-year: 2013
+year: 2012
 ---
 
 ### {{ site.subtitle[page.year] }}
 
-### Konsertteja kirkoissa, kartanossa, kahvilassa, kulttuuritalossa ja kotona
+### Vanha musiikki kohtaa kansanmusiikin
 
 #### [Juliste](VVP{{ page.year }}.pdf)
