@@ -77,7 +77,7 @@ Pillinpolku 19</a></li>
 <td><ul>
 <li><b>”Jay pris amours – olen valinnut rakkauden”</b></li>
 <li>Rakkauskirjeitä ja rekilauluja</li>
-<li><a href="../esiintyjat/ensmble-ganut/">Ensemble Gamut!</a></li>
+<li>Ensemble Gamut!</li>
 <li>Ohjelma 10 €</li>
 </ul></td></tr></table>
 

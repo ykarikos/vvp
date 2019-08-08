@@ -8,5 +8,5 @@ year: 2019
 
 - Vanhan musiikin laulu- ja soitinyhtye [Sonus Borealis](sonus-borealis/)
 - Lauluyhtye [Schola Sancti Henrici](schola-sancti-henrici/)
-- [Ensemble Gamut!](ensemble-gamut/)
+- Ensemble Gamut!
 - [Johannes Vesterinen](vesteriset/), urut, klavikordi
