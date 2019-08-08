@@ -8,7 +8,11 @@
 {% if site.ohjelma[page.year] %}
   <li><a href="/{{ page.year }}/ohjelma/">Ohjelma</a>
 {% endif %}
-  <li><a href="/{{ page.year }}/kirkot/">Kirkot</a>
+{% if page.year < 2019 %} 
+  <li><a href="/{{ page.year }}/kirkot/">Kirkot</a></li>
+{% else %}
+  <li><a href="/{{ page.year }}/tapahtumapaikat/">Tapahtumapaikat</a></li>
+{% endif %}
   <li><a href="#" id="archive">Arkisto</a>
 </ul>
 
