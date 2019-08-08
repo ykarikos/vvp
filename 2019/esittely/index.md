@@ -15,9 +15,6 @@ Wolfgang Amadeus Mozartin isän, Leopold Mozartin, syntymästä tulee tänä vuo
 Ranskalaisen, aikansa arvostetuimpiin kuuluvan urkuri-säveltäjä André Raisonin kuolemasta puolestaan on kulunut 300 vuotta. Hänen urkumessunsa kuullaan vanhan alternatim-käytännön mukaisesti toteutettuna lauluyhtye Schola Sancti Henricin ja urkuri Johannes Vesterisen toimesta. Mielenkiintoisessa päätöskonsertissa kuullaan vanhaa musiikkia, kansanmusiikkia, elektroniikkaa ja vapaata improvisaatiota yhdistävää Ensemble Gamut! -yhtyettä. 
 
 
-Kaikkiin tilaisuuksiin on vapaa pääsy; iltakonserttien käsiohjelmien
-hinta on 10 euroa.
-
 **Tervetuloa!**
 
 Heini &amp; Johannes Vesterinen
