@@ -9,7 +9,7 @@ year: 2019
 <table>
 <tr><th><ul>
 <li>sunnuntai&nbsp;8.9.&nbsp;klo&nbsp;17</li>
-<li>Konserttihovi</li>
+<li><a href="../tapahtumapaikat/">Konserttihovi</a></li>
 <li><a href="http://maps.google.fi/?q=Ilmeentie+157,+Imatra">Ilmeentie 157</a></li>
 </ul></th>
 
