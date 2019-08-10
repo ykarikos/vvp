@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: index-two-logos
 bodyid: index
 year: 2019
 ---
