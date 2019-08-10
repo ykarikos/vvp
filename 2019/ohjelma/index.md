@@ -16,7 +16,7 @@ year: 2019
 <td><ul>
 <li><b>Konserttihovi 40 vuotta!</b></li>
 <li>Italialaista varhaisbarokkia</li>
-<li>Vanhan musiikin yhtye <a href="../esiintyjat/sonus-borealis/">Sonus Borealis</a></li>
+<li>Vanhan musiikin yhtye <a href="../esiintyjat/sonus-borealis/">Sonus&nbsp;Borealis</a></li>
 <li>Konsertin juontaa <i>Risto Nordell</i></li>
 <li>Liput 25 €</li>
 </ul></td></tr>
@@ -77,7 +77,7 @@ Pillinpolku 19</a></li>
 <td><ul>
 <li><b>”Jay pris amours – olen valinnut rakkauden”</b></li>
 <li>Rakkauskirjeitä ja rekilauluja</li>
-<li>Ensemble Gamut!</li>
+<li><a href="../esiintyjat/ensemble-gamut/">Ensemble Gamut!</a></li>
 <li>Ohjelma 10 €</li>
 </ul></td></tr></table>
 
