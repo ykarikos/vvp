@@ -6,7 +6,7 @@ Kaakkois-Suomen taidetoimikunta valitsi Vesterisen Vuoden nuoreksi taiteilijaksi
 
 Hän on konsertoinut urkurina ja cembalistina eri puolilla maatamme paitsi solistisesti, myös kamari- ja orkesterimuusikkona. Vuonna 1999 perustamassaan ja johtamassaan vanhan musiikin laulu- ja soitinyhtye Sonus Borealiksessa hän soittaa myös erilaisia renessanssin ajan puhaltimia. Yhtye julkaisi ensilevynsä elokuussa 2008.
 
-![Vesteriset](vesteriset-pieni.jpg)
+![Vesteriset](/esiintyjat/vesteriset-pieni.jpg)
 
 ## Heini Vesterinen<a name="heini"></a>
 

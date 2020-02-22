@@ -1,6 +1,6 @@
 ## Sonus Borealis
 
-[![Sonus Borealis](sonus-borealis.jpg)](http://www.sonusborealis.fi)
+[![Sonus Borealis](/esiintyjat/sonus-borealis.jpg)](http://www.sonusborealis.fi)
 
 Vanhan musiikin laulu- ja soitinyhtye Sonus Borealis piti ensimmäisen konserttinsa Imatralla pääsiäisenä 1999. Sittemmin yhtye on esiintynyt useita kertoja vuodessa eri puolilla Suomea. Sonus Borealiksen ohjelmisto ulottuu keski­ajalta aina barokkiin asti, pääpainon ollessa 1500–1600-lukujen musiikissa.
 
