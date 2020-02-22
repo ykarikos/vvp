@@ -3,7 +3,7 @@ body {
   background: url(images/parch-d2.jpg);
   font-family: Georgia, Times, serif;
 /*  color: #443818; */
-  color: #000;
+  color: #111;
   letter-spacing: 0.05em;
   line-height: 1.35em;
 }
@@ -13,14 +13,18 @@ body {
   src: url('/images/Casablanca-Antique.ttf');
 }
 
-h3 {
+h3.sitetitle, .indexcontent h3 {
   font-family: CasablancaAntique, Georgia, Times, serif;
   color: #38280c;
   margin-top: 0.5em;
   text-align: center;
-  font-size: 150%;
+  font-size: 140%;
   font-weight: normal;
   line-height: 115%;
+}
+
+h3 a {  
+  color: #111;
 }
 
 body#index h3 {
