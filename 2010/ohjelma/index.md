@@ -14,10 +14,10 @@ Imatrankosken&nbsp;kirkko<br>
 Kanavakatu 2
 </th><td>
 <b>Ye sacred Muses</b><br>
-<a href="/esiintyjat/heikki-kulo/">Heikki Kulo</a>, tenori
+<a href="../esiintyjat/heikki-kulo/">Heikki Kulo</a>, tenori
 &amp;
 gambayhtye
-<a href="/esiintyjat/untoconsort/">UntoConsort</a>
+<a href="../esiintyjat/untoconsort/">UntoConsort</a>
 </td></tr>
 
 <tr><th>
@@ -27,9 +27,9 @@ Imatrankosken kirkko
 Iltapäivämusiikki<br>
 <b>Kustaa II Adolfista Kaarle XII:een</b><br>
 Säveliä Ruotsin suurvaltakauden ajoilta<br>
-<a href="/esiintyjat/vesteriset/#heini">Heini Vesterinen</a>,
+<a href="../esiintyjat/vesteriset/#heini">Heini Vesterinen</a>,
 barokkiviulu<br>
-<a href="/esiintyjat/vesteriset/">Johannes Vesterinen</a>,
+<a href="../esiintyjat/vesteriset/">Johannes Vesterinen</a>,
 cembalo ja urut
 </td></tr>
 
@@ -40,9 +40,9 @@ Ruokolahdentie 27
 </th><td>
 <b>Pyhä Pohjolan Birgitta</b><br>
 Musiikkia kuohuvalta keskiajalta<br>
-<a href="/esiintyjat/fioretto-ensemble/">Fioretto Ensemble</a>
+<a href="../esiintyjat/fioretto-ensemble/">Fioretto Ensemble</a>
 &amp; vokaaliyhtye
-<a href="/esiintyjat/lumous/">Lumous</a>
+<a href="../esiintyjat/lumous/">Lumous</a>
 </td></tr>
 
 <tr><th>
@@ -52,7 +52,7 @@ Kolmen Ristin Kirkko
 Iltapäivämusiikki<br>
 <b>Hampurista Lyypekkiin</b><br>
 1600-luvun saksalaismestarien mestariteoksia<br>
-<a href="/esiintyjat/vesteriset/">Johannes Vesterinen</a>,
+<a href="../esiintyjat/vesteriset/">Johannes Vesterinen</a>,
 urut
 </td></tr>
 
@@ -64,7 +64,7 @@ Kirkkokatu 2
 <b>L'oiseau souriant</b><br>
 Muotoja ranskalaisessa barokissa<br>
 Vanhan musiikin yhtye
-<a href="/esiintyjat/un-altra-ondata/">Un'altra ondata</a>
+<a href="../esiintyjat/un-altra-ondata/">Un'altra ondata</a>
 </td></tr>
 
 <tr><th>
@@ -75,7 +75,7 @@ Iltapäivämusiikki<br>
 <b>A Gran Battaglia</b><br>
 1600-luvun italialaista modernismia<br>
 Vanhan musiikin yhtye
-<a href="/esiintyjat/sonus-borealis/">Sonus Borealis</a>
+<a href="../esiintyjat/sonus-borealis/">Sonus Borealis</a>
 </td></tr>
 
 <tr><th>
@@ -85,7 +85,7 @@ Tainionkosken kirkko
 <b>Vanha ja uusi Espanja</b><br>
 Musiikkia 1500-1600-lukujen Espanjasta ja Meksikosta<br>
 Vanhan musiikin laulu- ja soitinyhtye
-<a href="/esiintyjat/sonus-borealis/">Sonus Borealis</a>
+<a href="../esiintyjat/sonus-borealis/">Sonus Borealis</a>
 </td></tr>
 </table>
 

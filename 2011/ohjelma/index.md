@@ -17,7 +17,7 @@ Kirkkokatu 2
 Claudio Monteverdin syntymästä 444 vuotta &ndash;
 Antonio Vivaldin syntymästä 333 vuotta
 Vanhan musiikin yhtye
-<a href="/esiintyjat/sonus-borealis/">Sonus Borealis</a>
+<a href="../esiintyjat/sonus-borealis/">Sonus Borealis</a>
 </td></tr>
 
 <tr><th>
@@ -28,7 +28,7 @@ Kanavakatu 2
 Iltapäivämusiikki<br>
 <b>Vivaldi á la Bach</b><br>
 J. S. Bachin sovituksia Antonio Vivaldin konsertoista<br>
-<a href="/esiintyjat/vesteriset/">Johannes Vesterinen</a>,
+<a href="../esiintyjat/vesteriset/">Johannes Vesterinen</a>,
 urut
 </td></tr>
 
@@ -38,9 +38,9 @@ maanantai&nbsp;22.8.&nbsp;klo&nbsp;18<br>
 </th><td>
 <b>Kaksintaistelu Salzburgin arkkipiispan hovissa</b><br>
 Heinrich Biberin ja Georg Muffatin musiikkia<br>
-<a href="/esiintyjat/petri-tapio-mattson/">Petri Tapio Mattson</a>, barokkiviulu<br>
-<a href="/esiintyjat/markku-makinen/">Makku Mäkinen</a>, urut<br>
-<a href="/esiintyjat/vesteriset/">Johannes Vesterinen</a>,
+<a href="../esiintyjat/petri-tapio-mattson/">Petri Tapio Mattson</a>, barokkiviulu<br>
+<a href="../esiintyjat/markku-makinen/">Makku Mäkinen</a>, urut<br>
+<a href="../esiintyjat/vesteriset/">Johannes Vesterinen</a>,
 cembalo
 </td></tr>
 
@@ -52,9 +52,9 @@ Ruokolahdentie 27
 Iltapäivämusiikki<br>
 <b>L’Autunno &ndash; Syksy</b><br>
 Antonio Vivaldin konserttoja ja sonaatteja<br>
-<a href="/esiintyjat/vesteriset/#heini">Heini Vesterinen</a>,
+<a href="../esiintyjat/vesteriset/#heini">Heini Vesterinen</a>,
 barokkiviulu ja viola da gamba<br>
-<a href="/esiintyjat/vesteriset/">Johannes Vesterinen</a>,
+<a href="../esiintyjat/vesteriset/">Johannes Vesterinen</a>,
 urut ja cembalo
 </td></tr>
 
@@ -64,9 +64,9 @@ tiistai&nbsp;23.8.&nbsp;klo&nbsp;18<br>
 </th><td>
 <b>Questa fanciull’ amor</b><br>
 Myöhäiskeskiajan musiikkia Italiasta ja Ranskasta<br>
-<a href="/esiintyjat/uli-kontu-korhonen">Uli Kontu-Korhonen</a>,
+<a href="../esiintyjat/uli-kontu-korhonen">Uli Kontu-Korhonen</a>,
 laulu, dulcimer, portatiiviurut<br>
-<a href="/esiintyjat/timo-peedu/">Timo Peedu</a>, citole, gittern,
+<a href="../esiintyjat/timo-peedu/">Timo Peedu</a>, citole, gittern,
 cetera, keskiaikainen luuttu
 </td></tr>
 
@@ -78,7 +78,7 @@ Iltapäivämusiikki<br>
 <b>Selva morale e spirituale</b><br>
 Claudio Monteverdin myöhäistuotantoa<br>
 Vanhan musiikin yhtye
-<a href="/esiintyjat/sonus-borealis/">Sonus Borealis</a>
+<a href="../esiintyjat/sonus-borealis/">Sonus Borealis</a>
 </td></tr>
 
 <tr><th>
@@ -88,7 +88,7 @@ keskiviikko&nbsp;24.8.&nbsp;klo&nbsp;18<br>
 <b>Suonata</b><br>
 Heiniä ja kukkasia Venetsian mestareiden
 harmonian puutarhasta<br>
-<a href="/esiintyjat/sonus-borealis/">Sonus Borealis</a>
+<a href="../esiintyjat/sonus-borealis/">Sonus Borealis</a>
 </td></tr>
 </table>
 
