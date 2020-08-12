@@ -6,7 +6,6 @@ year: 2020
 
 ### {{ site.subtitle[page.year] }}
 
-Kiitos vuonna 2019 mukana olleille esiintyjille ja yleisölle!
+Festivaali peruttu koronapandemian vuoksi vuodelta 2020. Toivottavasti pääsemme viettämään festivaalin 20-vuotisjuhlavuotta ensi syksynä.
 
-Ensi syksynä vuorossa jo 20. kerta, teemana muun muassa 400 vuotta täyttävä Isabella Leonarda.
 
