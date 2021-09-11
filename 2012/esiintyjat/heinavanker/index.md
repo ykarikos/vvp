@@ -2,7 +2,7 @@
 layout: main
 title: Esiintyjät - Heinavanker
 bodyid: esiintyjat
-year: 2015
+year: 2012
 ---
 ## Lauluyhtye Heinavanker
 

@@ -2,7 +2,7 @@
 layout: main
 title: Esiintyjät - Schola Sancti Henrici
 bodyid: esiintyjat
-year: 2007
+year: 2006
 ---
 ## Schola Sancti Henrici
 

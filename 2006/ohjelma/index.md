@@ -2,7 +2,7 @@
 layout: main
 title: Ohjelma
 bodyid: ohjelma
-year: 2007
+year: 2006
 ---
 
 ## Ohjelma

@@ -2,7 +2,7 @@
 layout: main
 title: Esiintyjät - Cantus Saimaa
 bodyid: esiintyjat
-year: 2007
+year: 2006
 ---
 ## Cantus Saimaa
 

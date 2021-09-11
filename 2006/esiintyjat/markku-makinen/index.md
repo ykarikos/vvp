@@ -2,7 +2,7 @@
 layout: main
 title: Esiintyjät - Markku Mäkinen
 bodyid: esiintyjat
-year: 2007
+year: 2006
 ---
 ## Markku Mäkinen
 

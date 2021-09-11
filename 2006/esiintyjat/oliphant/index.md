@@ -2,7 +2,7 @@
 layout: main
 title: Esiintyjät - Oliphant
 bodyid: esiintyjat
-year: 2007
+year: 2006
 ---
 ## Oliphant – Keskiaikaisen Musiikin Yhtye
 

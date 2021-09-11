@@ -2,7 +2,7 @@
 layout: main
 title: Esiintyjät - Samuli Saarela
 bodyid: esiintyjat
-year: 2007
+year: 2006
 ---
 
 ## Samuli Saarela
