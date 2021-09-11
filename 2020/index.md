@@ -6,8 +6,8 @@ year: 2020
 
 ### {{ site.subtitle[page.year] }}
 
-*Festivaali peruttu koronapandemian vuoksi vuodelta 2020.*
+*Festivaali peruttu koronapandemian vuoksi vuosilta 2020–2021.*
 
-Toivottavasti pääsemme viettämään festivaalin 20-vuotisjuhlavuotta ensi syksynä. Seuraa ensi kertaa odotellessa [Elämää kanttorilassa](https://www.facebook.com/kanttorilassa.fi/).
+Toivottavasti pääsemme viettämään festivaalin 20-vuotisjuhlavuotta syksyllä 2022. Seuraa ensi kertaa odotellessa [Elämää kanttorilassa](https://www.facebook.com/kanttorilassa.fi/).
 
 
