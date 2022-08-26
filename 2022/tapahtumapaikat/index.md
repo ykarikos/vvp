@@ -4,4 +4,14 @@ title: Tapahtumapaikat
 bodyid: kirkot
 year: 2022
 ---
-{% include tapahtumapaikat.md %}
+
+![Tainionkosken kirkko](/kirkot/tk-kirkko.jpg)
+<br>
+Tainionkosken kirkko,
+[Kirkkokatu 2](http://maps.google.com/?q=Kirkkokatu+2,+Imatra)
+
+Neitsytniemen kartano,
+[Neitsytniemenkuja 12](https://www.google.com/maps?q=Neitsytniemenkuja+12,+Imatra)
+
+Kari ja Leena Nousiainen
+[Pillinpolku 19](https://www.google.com/maps/place/Pillinpolku+19,+Imatra)
