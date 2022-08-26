@@ -10,6 +10,12 @@ year: 2022
 Tainionkosken kirkko,
 [Kirkkokatu 2](http://maps.google.com/?q=Kirkkokatu+2,+Imatra)
 
+![Konserttihovi](/tapahtumapaikat/konserttihovi.jpg)
+<br>
+Konserttihovi, 
+[Ilmeentie 157](http://maps.google.fi/?q=Ilmeentie+157,+Imatra)<br>
+[konserttihovi.fi](http://konserttihovi.fi)
+
 Neitsytniemen kartano,
 [Neitsytniemenkuja 12](https://www.google.com/maps?q=Neitsytniemenkuja+12,+Imatra)
 
