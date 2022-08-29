@@ -75,8 +75,8 @@ Pillinpolku 19</a></li>
 <td><ul>
 <li><b>PolskaPandolfi</b></li>
 <li>Barokkia Italiasta ja polskaa Pohjanmaalta</li>
-<li>Kreeta-Maria Kentala, barokkiviulu</li>
-<li>Tea Polso, cembalo</li>
+<li><a href="../esiintyjat/polso-kentala/">Kreeta-Maria Kentala</a>, barokkiviulu</li>
+<li><a href="../esiintyjat/polso-kentala/">Tea Polso</a>, cembalo</li>
 <li>Ohjelma 10 €</li>
 </ul>
 </td></tr></table>
