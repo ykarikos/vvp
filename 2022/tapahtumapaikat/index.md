@@ -16,6 +16,8 @@ Konserttihovi,
 [Ilmeentie 157](http://maps.google.fi/?q=Ilmeentie+157,+Imatra)<br>
 [konserttihovi.fi](http://konserttihovi.fi)
 
+![Neitsytniemen kartano](/tapahtumapaikat/neitsytniemen-kartano.jpg)
+<br>
 Neitsytniemen kartano,
 [Neitsytniemenkuja 12](https://www.google.com/maps?q=Neitsytniemenkuja+12,+Imatra)
 
