@@ -1,5 +1,5 @@
 ---
-layout: index-two-logos
+layout: index
 bodyid: index
 year: 2022
 ---
