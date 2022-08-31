@@ -46,7 +46,10 @@ year: 2022
 <td><ul>
 <li><b>La Folia – Lampaanpolska</b></li>
 <li>Barokkia ja pelimannisävelmiä</li>
-<li>Vanhan musiikin yhtye <a href="../esiintyjat/sonus-borealis/">Sonus&nbsp;Borealis</a> with special guest stars</li>
+<li>Vanhan musiikin yhtye <a href="../esiintyjat/sonus-borealis/">Sonus&nbsp;Borealis</a></li>
+<li><a href="../esiintyjat/arto-jarvela/">Arto Järvelä</a>, avainviulu, esseharpa</li>
+<li><a href="../esiintyjat/minna-kangas/">Minna Kangas</a>, viulu</li>
+<li><a href="../esiintyjat/eero-palviainen/">Eero Palviainen</a>, luuttu</li>
 <li>Ohjelma 10 €</li>
 </ul></td></tr>
 
