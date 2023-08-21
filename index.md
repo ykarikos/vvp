@@ -1,4 +1,4 @@
 ---
 layout: frontpage
-year: 2022
+year: 2023
 ---
