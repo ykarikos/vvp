@@ -13,7 +13,14 @@
 {% else %}
   <li><a href="/{{ page.year }}/tapahtumapaikat/">Tapahtumapaikat</a></li>
 {% endif %}
-  <li><a href="#" id="archive">Arkisto</a>
+  <li><a href="#" id="archive" onclick="
+  var e = document.getElementById('archive-list');
+  if (e.style.display == 'block') {
+    e.style.display = 'none';
+  } else {
+    e.style.display = 'block';
+  }
+  ">Arkisto</a>
 </ul>
 
 <ul class="navi" id="archive-list">
