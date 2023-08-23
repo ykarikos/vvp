@@ -11,14 +11,14 @@ year: 2023
 <tr><th><ul>
 <li>perjantai&nbsp;8.9.&nbsp;klo&nbsp;18</li>
 <li><a href="../tapahtumapaikat/">Tainionkosken&nbsp;kirkko</a></li>
-<li><a href="http://maps.google.com/?q=Kirkkokatu+2,+Imatra">Kirkkokatu 2</a></li>
+<li><a href="https://www.google.com/maps/place/Kirkkokatu+2,+55120+Imatra/">Kirkkokatu 2</a></li>
 </ul></th>
 
 <td><ul>
 <li><b>Turha on maailman meno</b></li>
 <li>lauluja keskiajan Suomesta</li>
 <li>Lauluyhtye <a href="../esiintyjat/schola-sancti-henrici/">Schola Sancti Henrici</a></li>
-<li>Ilkka Heinonen, jouhikko</li>
+<li><a href="../esiintyjat/ilkka-heinonen/">Ilkka Heinonen</a>, jouhikko</li>
 <li><a href="../esiintyjat/vesteriset/">Johannes Vesterinen</a>, puhaltimet &amp; dulcimer</li>
 <li>Ohjelma 10 €</li>
 </ul></td></tr>
@@ -26,14 +26,14 @@ year: 2023
 <tr><th><ul>
 <li>lauantai&nbsp;9.9.&nbsp;klo&nbsp;15</li>
 <li><a href="../tapahtumapaikat/">Neitsytniemen kartano</a></li>
-<li><a href="https://www.google.com/maps?q=Neitsytniemenkuja+12,+Imatra">Neitsytniemenkuja 12</a></li>
+<li><a href="https://www.google.com/maps/place/Neitsytniemenkuja+12,+Imatra">Neitsytniemenkuja 12</a></li>
 </ul></th>
 
 <td><ul>
 <li><b>Kreivin aikaan</b></li>
 <li>Pietari Brahen matkassa</li>
-<li><a href="">Mats Lillhannus</a>, tenori</li>
-<li><a href="">Mikko Ikäheimo</a>, luuttu</li>
+<li><a href="../esiintyjat/mats-lillhannus/">Mats Lillhannus</a>, tenori</li>
+<li><a href="../esiintyjat/mikko-ikaheimo/">Mikko Ikäheimo</a>, luuttu</li>
 <li>Liput 20 €, sisältäen kahvitarjoilun,</li>
 <li>ennakkovaraukset puh.
 <a href="tel:+358456581900">045 658 1900</a>
@@ -44,7 +44,7 @@ tau <a href="mailto:info@neitsytniemenkartano.fi">info@neitsytniemenkartano.fi</
 <tr><th><ul>
 <li>sunnuntai&nbsp;10.9.&nbsp;klo&nbsp;17</li>
 <li><a href="../tapahtumapaikat/">Konserttihovi</a></li>
-<li><a href="http://maps.google.fi/?q=Ilmeentie+157,+Imatra">Ilmeentie 157</a></li>
+<li><a href="https://www.google.com/maps/place/Ilmeentie+157,+Imatra">Ilmeentie 157</a></li>
 </ul></th>
 
 <td><ul>
