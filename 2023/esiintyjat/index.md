@@ -11,4 +11,4 @@ year: 2023
 - [Mats Lillhannus](mats-lillhannus/), tenori
 - [Mikko Ikäheimo](mikko-ikaheimo/), luuttu
 - Vanhan musiikin laulu- ja soitinyhtye [Sonus Borealis](sonus-borealis/)
-- [Johannes Vesterinen](vesteriset/), puhaltimet & dulcimer
+- [Johannes Vesterinen](johannes-vesterinen/), puhaltimet & dulcimer

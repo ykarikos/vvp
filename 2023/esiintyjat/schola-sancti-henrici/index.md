@@ -7,7 +7,7 @@ year: 2023
 ## Schola Sancti Henrici
 
 ![Schoa Sancti Henrici](schola-sancti-henrici.jpg)
-(Kuva: Ida Nisonen)
+(Kuva: Aleksi Kallioja)
 
 Vuonna 2000 perustettu gregoriaaninen lauluyhtye Schola Sancti Henrici on esittänyt Pyhän Henrikin messun ja vesperin useasti eri puolilla Suomea. Pyhän Henrikin päivänä vuonna 2001 yhtye lauloi messun keskeiset osat Rooman Santa Maria Sopra Minerva -basilikassa vietetyssä ekumeenisessa messussa, ja samalla matkalla se esiintyi myös paavin vastaanotolla Vatikaanissa.
 

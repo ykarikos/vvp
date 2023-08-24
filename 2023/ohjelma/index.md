@@ -19,7 +19,7 @@ year: 2023
 <li>lauluja keskiajan Suomesta</li>
 <li>Lauluyhtye <a href="../esiintyjat/schola-sancti-henrici/">Schola Sancti Henrici</a></li>
 <li><a href="../esiintyjat/ilkka-heinonen/">Ilkka Heinonen</a>, jouhikko</li>
-<li><a href="../esiintyjat/vesteriset/">Johannes Vesterinen</a>, puhaltimet &amp; dulcimer</li>
+<li><a href="../esiintyjat/johannes-vesterinen/">Johannes Vesterinen</a>, puhaltimet &amp; dulcimer</li>
 <li>Ohjelma 10 €</li>
 </ul></td></tr>
 
