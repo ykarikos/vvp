@@ -37,7 +37,7 @@ year: 2023
 <li>Liput 20 €, sisältäen kahvitarjoilun,</li>
 <li>ennakkovaraukset puh.
 <a href="tel:+358456581900">045 658 1900</a>
-tau <a href="mailto:info@neitsytniemenkartano.fi">info@neitsytniemenkartano.fi</a></li>
+tai <a href="mailto:info@neitsytniemenkartano.fi">info@neitsytniemenkartano.fi</a></li>
 </ul></td></tr>
 
 
@@ -49,7 +49,6 @@ tau <a href="mailto:info@neitsytniemenkartano.fi">info@neitsytniemenkartano.fi</
 
 <td><ul>
 <li><b>Musiikkia Suomen Turusta ja maailman turuilta</b></li>
-<li>Barokkia ja pelimannisävelmiä</li>
 <li>Vanhan musiikin yhtye <a href="../esiintyjat/sonus-borealis/">Sonus&nbsp;Borealis</a></li>
 <li>Konsertin juontaa Risto Nordell</li>
 <li>Liput 30 €</li>
