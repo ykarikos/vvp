@@ -57,4 +57,5 @@ tai <a href="mailto:info@neitsytniemenkartano.fi">info@neitsytniemenkartano.fi</
 </table>
 
 <p>Lisätietoja: Johannes Vesterinen, puh.
-<a href="tel:+358407420260">040 742 0260</a></p>
+<a href="tel:+358504652616">050 465 2616</a> ja
+<a href="mailto:johannes.vesterinen@gmail.com">johannes.vesterinen@gmail.com</a></p>
