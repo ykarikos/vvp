@@ -9,6 +9,12 @@ This is the source for [Vanhassa Vara Parempi](http://www.vanhassavaraparempi.fi
 * Copy `<year-1>/index.md` to `<year>/` and `s/<year-1>/<year>/`
 * Add a new year to archive-list in `_includes/navi.html`
 
+## Running locally via Docker
+
+``
+docker run --rm  --volume="$PWD:/srv/jekyll:Z"  --publish 127.0.0.1:8000:4000 jekyll/jekyll sh -c 'jekyll serve'
+``
+
 ## Running locally
 
 Check instructions at https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
