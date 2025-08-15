@@ -1,4 +1,4 @@
 ---
 layout: frontpage
-year: 2024
+year: 2025
 ---
