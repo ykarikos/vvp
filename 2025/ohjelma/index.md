@@ -40,7 +40,7 @@ Kirkkokatu 2</a></li>
 
 
 <tr><th><ul>
-<li>lauantai&nbsp;6.9.&nbsp;klo&nbsp;14</li>
+<li>lauantai&nbsp;6.9.&nbsp;klo&nbsp;15</li>
 <li><a href="../tapahtumapaikat/">Neitsytniemen kartano</a></li>
 <li><a href="https://www.google.com/maps/place/Neitsytniemenkuja+12,+Imatra">Neitsytniemenkuja 12</a></li>
 </ul></th>
