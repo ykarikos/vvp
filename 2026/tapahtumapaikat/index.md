@@ -11,7 +11,6 @@ Konserttihovi,
 [Ilmeentie 157](http://maps.google.fi/?q=Ilmeentie+157,+Imatra)<br>
 [konserttihovi.fi](http://konserttihovi.fi)
 
-
 Kari ja Leena Nousiainen
 [Pillinpolku 19](https://www.google.com/maps/place/Pillinpolku+19,+Imatra)
 
